@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/c++ Projects/.vscode/star pattrens",
-      "program": "c:/Users/Lenovo/c++ Projects/.vscode/star pattrens/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/c++ Projects/star pattrens",
+      "program": "c:/Users/Lenovo/c++ Projects/star pattrens/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
